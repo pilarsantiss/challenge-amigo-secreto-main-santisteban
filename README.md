@@ -1,4 +1,3 @@
-# challenge-amigo-secreto-main-santisteban
 <h1 align="center">Challenge Allura: Sorteo Amigo Secreto</h1>
  El proyecto challenge es parte del curso de Allura para el grupo 8. 
  La consigna era realizar una pagina que sortee un nombre secreto.
@@ -8,6 +7,6 @@
  Para finalizar y saber cual es el nombre sorteado, se debe cliquear el boton, que aparece luego de la lista, naranja que dice "Sortear amigo".
  Si no hubiera ningun nombre en la lista y uno quiere sortear de todas maneras, la pagina le dira con una alerta que "Por favor, ingrese más de un nombre".
  <h2>Ayuda</h2>
-Si hubiera algun problema para usarlo puede acceder a (repositorio).
+Si hubiera algun problema para usarlo puede acceder a https://github.com/pilarsantiss/challenge-amigo-secreto-main-santisteban.
  <h2>Autores</h2>
 Pilar Santisteban
