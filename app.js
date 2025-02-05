@@ -1,8 +1,8 @@
 //se crea un array vacio para poder añadirle los nombres a sortear
 let arregloAmigos = [];
-//luego se crea una funcion la cual en el html ya se nombro con "onclick"
+//luego se crea una funcion la cual en el html ya se nombró con el evento "onclick"
 function agregarAmigo () {
-    //creamos una variable usando los nombres introducidos en html en un input
+    //creamos una variable usando los nombres introducidos en html en un elemento input
     const nombre = document.getElementById('amigo').value;
     //chequeamos que el input no este vacio
     if (nombre.trim() !== ''){
@@ -18,7 +18,7 @@ function agregarAmigo () {
     }
 }
 
-//la proxima funcion  hara que se realice el sorteo, tambien llamada dentro del html con "onclick"
+//la proxima funcion  hara que se realice el sorteo, tambien llamada dentro del html con el evento "onclick"
 function sortearAmigo() {
     //primero se fija que el arreglo no este vacio
     if (arregloAmigos.length > 0 ) {
